@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|d:\\fatec\\5\u00BA semestre\\topicos-espec-2\\fatecsismed\\fatecsismed\\fatecsismed.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|solutionrelative:fatecsismed.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|d:\\fatec\\5\u00BA semestre\\topicos-espec-2\\fatecsismed\\fatecsismed\\fatecsismed.identityserver\\fatecsismed.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|solutionrelative:fatecsismed.identityserver\\fatecsismed.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|d:\\fatec\\5\u00BA semestre\\topicos-espec-2\\fatecsismed\\fatecsismed\\fatecsismed.identityserver\\seeddatabase\\interfaces\\idatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|solutionrelative:fatecsismed.identityserver\\seeddatabase\\interfaces\\idatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|d:\\fatec\\5\u00BA semestre\\topicos-espec-2\\fatecsismed\\fatecsismed\\fatecsismed.identityserver\\seeddatabase\\entities\\databaseidentityserverinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624866E1-D6CE-4870-8D53-165EDFBF07D4}|FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj|solutionrelative:fatecsismed.identityserver\\seeddatabase\\entities\\databaseidentityserverinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityConfiguration.cs",
+              "DocumentMoniker": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeDocumentMoniker": "FatecSisMed.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ToolTip": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeToolTip": "FatecSisMed.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:32:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FatecSisMed.IdentityServer.csproj",
+              "DocumentMoniker": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
+              "RelativeDocumentMoniker": "FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
+              "ToolTip": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
+              "RelativeToolTip": "FatecSisMed.IdentityServer\\FatecSisMed.IdentityServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T00:32:01.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseIdentityServerInitializer.cs",
+              "DocumentMoniker": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\SeedDataBase\\Entities\\DataBaseIdentityServerInitializer.cs",
+              "RelativeDocumentMoniker": "FatecSisMed.IdentityServer\\SeedDataBase\\Entities\\DataBaseIdentityServerInitializer.cs",
+              "ToolTip": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\SeedDataBase\\Entities\\DataBaseIdentityServerInitializer.cs",
+              "RelativeToolTip": "FatecSisMed.IdentityServer\\SeedDataBase\\Entities\\DataBaseIdentityServerInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:27:31.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataBaseInitializer.cs",
+              "DocumentMoniker": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\SeedDataBase\\Interfaces\\IDataBaseInitializer.cs",
+              "RelativeDocumentMoniker": "FatecSisMed.IdentityServer\\SeedDataBase\\Interfaces\\IDataBaseInitializer.cs",
+              "ToolTip": "D:\\FATEC\\5\u00BA Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.IdentityServer\\SeedDataBase\\Interfaces\\IDataBaseInitializer.cs",
+              "RelativeToolTip": "FatecSisMed.IdentityServer\\SeedDataBase\\Interfaces\\IDataBaseInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:26:53.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
